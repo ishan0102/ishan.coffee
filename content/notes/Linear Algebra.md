@@ -5,4 +5,4 @@ tags:
   - seed
 enableToc: false
 ---
-Basic Algebra by Jacobson
+
