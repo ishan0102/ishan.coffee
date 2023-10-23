@@ -5,4 +5,8 @@ tags:
   - evergreen
 enableToc: false
 ---
+## Textbooks
 Surely you're joking Mr. Feynman
+Elementary Analysis
+goodfellow
+

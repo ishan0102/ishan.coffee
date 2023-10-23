@@ -25,7 +25,10 @@ A growing tech stack of tools I'm familiar with and enjoy using. Mainly used for
 ## Machine Learning
 - **Libraries & Platforms**: NumPy, PyTorch, CUDA
 - [**Embeddings**](Embeddings): OpenAI embeddings, Sentence-transformers, Turbopuffer
-- **GPU Providers**: Lambda Labs, Vast.ai
+- **GPU Providers**: Lambda Labs, Vast.ai, Runpod
+- **TTS**: Eleven Labs, PlayHT
+- **LLM Inference**: OpenAI, pplx-api, Anthropic, Anyscale Endpoints
+- **OCR**: Tesseract.js
 
 ## Deployment & Operations
 - **Deployment**: Vercel, GitHub Pages, Railway, Cloudflare

@@ -19,6 +19,8 @@ Transformers have been all the rage in the NLP community ever since [GPT-3](http
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) - Sasha Rush
 - [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/) - Kipply
 - [Transformer Math 101](https://blog.eleuther.ai/transformer-math/) - EleutherAI
+- [Transformers from Scratch](https://e2eml.school/transformers) - Brandon Rohrer
+- GPT in 60 lines of Numpy
 
 ## YouTube Videos
 - [Attention is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro) - Yannic Kilcher

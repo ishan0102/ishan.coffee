@@ -16,4 +16,5 @@ Collection of good science fiction literature.
 - This is how you lose the time war
 - Exhalation – Ted Chiang
 - Understand – Ted Chiang
-- Flowers for alg
+- Flowers for Algernon
+- Atlas shrugged

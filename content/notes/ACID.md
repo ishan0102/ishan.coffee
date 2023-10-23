@@ -3,25 +3,18 @@ title: ACID
 date: 2023-10-14
 tags:
   - seed
-enableToc: false
+enableToc: true
 ---
-## Intro
 Let's say you want to write some data to a database. There's a few things you probably want without realizing:
-- If you're writing some data and there's a power outage halfway, you want to undo the partially-written data.
-- If you write some data, you might want it to match a specific format. For instance, dates might need to be stored as YYYY-MM-DD.
-- If two users are reading and writing data simultaneously, their writes should only be visible to other users once complete, not midway.
-- If there's a power outage, you want to keep the data safe.
+- **Atomicity:** If you're writing some data and there's a power outage halfway, you want to undo the partially-written data. Transactions are atomic, meaning they either happen fully or not at all.
+- **Consistency**: You might want data to match a specific format, like ensuring dates are stored in the `YYYY-MM-DD` format. Transactions ensure data remains consistent and adhere to preset constraints.
+- **Isolation**: If two users are reading and writing data simultaneously, their changes should only be visible to other users once complete and not midway through. Transactions are isolated from each other, ensuring that simultaneous operations do not interfere with one another.
+- **Durability**:  In the event of power outages or system failures, the last thing you'd want is data loss. Databases ensure durability, guaranteeing that committed data remains safe even if the system crashes.
 
-## ACID
-These wants may seem obvious, but they're actually non-trivial to guarantee, and make up the core components of ACID transactions. In short, ACID is:
-- **Atomicity**: transactions are atomic, they either happy fully or not at all.
-- **Consistency**: transactions keep data consistent, they abide by preset constraints.
-- **Isolation**: transactions are isolated from one another, simultaneous transactions have no knowledge of one another.
-- **Durability**: databases are durable, they ensure data is not lost if a system crashes.
-
-What's hard about this is that to have perfect ACID transactions, you have to sacrifice performance to some extent. All of them hinder perf in some way
+Guaranteeing any of these will hinder performance in some way. For instance, guaranteeing isolation implies that you must lock the database while performing writes, which hurts parallelization. However, most modern databases like Postgres are ACID compliant because building reliable systems often requires performance tradeoffs.
 
 ### Freshness Consistency
+One other form of consistency I didn't touch on above is **freshness consistency**. This involves 
 
 ### References
-Source: [Atomicity](https://www.youtube.com/watch?v=bwgvaLP7Ucg), [Consistency](https://www.youtube.com/watch?v=IUOmz-KMb7k), [Isolation](https://www.youtube.com/watch?v=mBNucbfl2vM), [Durability](https://www.youtube.com/watch?v=O2otAXjEXTk&list=PL6FzkbJhLW0QM8XObve_mf9OPpPvfHh7t&index=3)
+Studying with Alex: [Atomicity](https://www.youtube.com/watch?v=bwgvaLP7Ucg), [Consistency](https://www.youtube.com/watch?v=IUOmz-KMb7k), [Isolation](https://www.youtube.com/watch?v=mBNucbfl2vM), [Durability](https://www.youtube.com/watch?v=O2otAXjEXTk&list=PL6FzkbJhLW0QM8XObve_mf9OPpPvfHh7t&index=3)
