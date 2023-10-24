@@ -5,7 +5,7 @@ tags:
   - seed
 enableToc: false
 ---
-- pair with google design stuff
+- check out pair with google design stuff for neuron viz
 - anthropic paper on interpretable neurons
 - build software abstraction layers for yourself. makes iteration must faster and much easier since you know the stack
 - pile = automatically organized stack of info

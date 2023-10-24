@@ -1,9 +1,9 @@
 ---
-title: Reading
+title: Books
 date: 2023-10-11
 tags:
   - evergreen
-enableToc: false
+enableToc: true
 ---
 ## Textbooks
 - Surely You're Joking, Mr. Feynman!
@@ -25,6 +25,8 @@ enableToc: false
 - Introduction to Algorithms (CLRS)
 - Designing Data-Intensive Applications
 - Cracking the Coding Interview
+- ML Interviews Book
+	- Working through the problems [[MLIB Practice Problems|here]]
 - Elements of Programming Languages
 - ISLP Website PDF: [Link](https://hastie.su.domains/ISLP/ISLP_website.pdf)
 - SciML: [Link](https://book.sciml.ai/)
@@ -48,3 +50,4 @@ enableToc: false
 - Understand – Ted Chiang
 - Flowers for Algernon
 - Atlas shrugged
+- Superintelligence

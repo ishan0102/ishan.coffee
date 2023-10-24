@@ -12,6 +12,7 @@ enableToc: true
 - [CMU Database Group](https://www.youtube.com/c/cmudatabasegroup)
 - [MIT 6.172: Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
 - [MLSys Seminars](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq) - Stanford
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101) - ByteByteGo
 
 ## Math
 ### Linear Algebra
