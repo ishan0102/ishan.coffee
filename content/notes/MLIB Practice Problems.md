@@ -23,7 +23,7 @@ I'll be solving all of the problems from Chip Huyen's [ML Interviews Book](https
 6. Norms and metrics
 	1. A norm is a measure of a vector's length. A norm must satisfy the properties of positive definiteness, homogeneity, and triangle inequality. [1](https://montjoile.medium.com/l0-norm-l1-norm-l2-norm-l-infinity-norm-7a7d18a4f40c)
 		- $L_0$ norm: The number of nonzero elements in a vector. Technically not a norm.
-		- $L_1$ norm: The sum of the absolute values of elements in a vector. $\sum_{i=1}^n |x_i|$.
+		- $L_1$ norm: Known as the Taxicab norm, it is the sum of the absolute values of elements in a vector. $\sum_{i=1}^n |x_i|$.
 		- $L_2$ norm: Known as the Euclidean norm, it is the Euclidean distance of a vector. $\sqrt{\sum_{i=1}^n x_i^2}$.
 		- $L_\infty$ norm: The magnitude of the maximum element in a vector. The norm values from $L_2, L_3, \ldots$ trend toward this value.
-	2. A metric is a function that can measure the distance between two points in space. Norms are defined for vectors spaces while metrics can be defined on any set. Thus, given a norm $|| \cdot ||$ a metric $d$ can be defined as $d(x, y) = ||x - y||$. Given a metric, we cannot necessarily create a norm as norms are only defined for vector spaces.
+	2. A metric is a function that can measure the distance between two points in space. Norms are defined for vectors spaces while metrics can be defined on any set. Essentially, norms measure the size of a single item while metrics measure distances between pairs of items. Thus, given a norm $|| \cdot ||$ a metric $d$ can be defined as $d(x, y) = ||x - y||$. Given a metric, we cannot necessarily create a norm as norms are only defined for vector spaces. [1](https://www.youtube.com/watch?v=fl5fOAYY-1s)
