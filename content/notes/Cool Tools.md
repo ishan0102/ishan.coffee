@@ -19,7 +19,7 @@ A growing tech stack of tools I'm familiar with and enjoy using. Mainly used for
 
 ## Frontend
 - **Frameworks**: Next.js, React
-- **Design**: Tailwind
+- **Design**: Tailwind, [shadcn](https://ui.shadcn.com/)
 - **Icons**: Iconic.app
 
 ## Machine Learning

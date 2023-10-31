@@ -1,12 +1,15 @@
 ---
-title: Local Language Models
+title: Open-Source LLMs
 date: 2023-10-04
 tags:
   - seed
 enableToc: false
 ---
-Will keep track of local LM releases here.
+General finetuning guide: https://rentry.org/llm-training
+
+Will keep track of open-source LM releases here.
 - Mistral-7B: https://github.com/mistralai/mistral-src
+	- finetuning: https://github.com/abacaj/fine-tune-mistral
 - MPT-30B
 - LLaMa 2-7B
 - Code-LLaMa
@@ -14,7 +17,15 @@ Will keep track of local LM releases here.
 - [skunkworks model](https://huggingface.co/SkunkworksAI/BakLLaVA-1)
 - mistral 7b instruct hosted on pplx
 - pplx is gonna have a RAG api as well
-- [](https://t.co/5zT0C3QBjQ)
+- [RedPajama-Data-v2](https://together.ai/blog/redpajama-data-v2)
+- [Fuyu-8B](https://www.adept.ai/blog/fuyu-8b)
+- [Persimmon-8B](https://www.adept.ai/blog/persimmon-8b)
+- https://github.com/coqui-ai/TTS
+- Yasa1
+- Riftcoder 7b
+- starcoder
+- segment anything
+- dinov2
 
 Good way to run open source models:
 - https://ollama.ai/

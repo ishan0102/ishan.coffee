@@ -32,6 +32,12 @@ enableToc: false
   - [Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
   - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
   - [The Bitter Lesson 2](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
+  - [Swyx's AI Notes](https://github.com/swyxio/ai-notes)
+  - [Keeping up with AGI](https://docs.google.com/document/d/e/2PACX-1vQD8IlBotGdBxp3BnXkSjk8bNZlPV_0EH9ZA6wHd5dNf-BLSiwXUinvgv8ZoBEnNyTCF-chWO30NRw0/pub#h.gk70cijomli7)
+  - https://kipp.ly/jul-aug-2023/
+  - https://vgel.me/posts/handmade-transformer/
+  - https://sumanthrh.com/post/distributed-and-efficient-finetuning/
+  - stateof.ai
 
 - **Projects & Models**
   - [Llama V2](https://nonint.com/)

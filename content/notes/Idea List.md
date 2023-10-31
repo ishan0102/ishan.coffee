@@ -17,5 +17,33 @@ enableToc: false
 - Display some of the best pieces of writing on the Internet in a common place, with beautiful styling. For example all of the Paul Graham essays, some Twitter posts, Ted Chiang essays like *Understand* that only exist on old web archives.
 - Dscan: scan through your data and "swipe left/right" on good/bad examples to manually create a training set. Inspired by [1](https://www.reddit.com/r/LocalLLaMA/comments/14vnfh2/my_experience_on_starting_with_fine_tuning_llms/), [2](https://twitter.com/yacinemtb/status/1679466332964761600?s=46&t=4LxBxS_eu8BphijSvNj7HA).
 - Convert images to LaTeX, could be useful for converting complicated graphs or diagrams.
-- Automatically teach yourself using short form videos like the subway surfer tiktoks. Can query content from anywhere - reddit, twitter etc. Need to make a more general data querying tool that I can use for things.
+- Automatically teach yourself using short form videos like the subway surfer TikToks. Can query content from anywhere - reddit, twitter etc. Need to make a more general data querying tool that I can use for things.
 - Summarize any subreddit with LLMs by querying the RSS.
+- Rebuild popular products like Postman as free, open-source tools.
+- An AR tool that lets you query references you like to make. Imagining something like Family Guy cutaways, effectively querying your memories.
+- A way to modify a calendar state by directly altering the JSON version with an LLM.
+- Embed solutions to LeetCode problems to compare similarity.
+- A language model to translate mixed languages like Chinglish or Hinglish.
+- AB testing for agentic web browsing.
+- Automatically create YouTube shorts/TikToks from subreddits.
+- Solve the issue where you have a ton of Jupyter notebooks all with slightly different variations of the same pre-processing code.
+- A little guy who organizes and cleans up your codebase while you're not using your computer.
+- Link entire codebases together graphically and automatically and allow users to parse through the function calls in a spatial UI – "spatial coding".
+- Map coding error messages to their solutions to build up a repository of personal debugging tricks automatically.
+- GPT vision tools:
+	- Better autonomous web browsing
+	- Receipt extraction
+	- Math homework helper
+	- Image to LaTeX converter
+	- Calorie counter
+	- Recipe generator from ingredients
+	- Diagram generator from whiteboard
+	- Excel analyzer
+	- Detect fake vs. real sneakers
+	- Structure-anything: convert anything to structured data
+	- An "anything API" since it can see the whole web
+- *Actually good* dev-tools for things like base64 conversion, OpenAI token counting, etc. Good for LLM devs and regular devs alike.
+- Better interface for constant web-scraping using [this](https://github.com/simonw/ca-fires-history/blob/main/.github/workflows/scrape.yml).
+- Convert an MIT course into useful lecture notes. Should add a sliding scale that lets you modify the difficulty, can do this by pre-generating content for different education levels. [1](https://twitter.com/ocolegro/status/1707823106767651239?s=46&t=4LxBxS_eu8BphijSvNj7HA)
+- Compressing thought and expanding it again is like noising and denoising in diffusion models.
+- Continuously summarize HN, Reddit, etc. and generate podcast episodes, similar to [ScribePod](https://github.com/yacineMTB/scribepod).

@@ -1,11 +1,10 @@
 ---
-title: Books
-date: 2023-10-11
+title: Textbooks
+date: 2023-10-30
 tags:
-  - evergreen
-enableToc: true
+  - seed
+enableToc: false
 ---
-## Textbooks
 - Surely You're Joking, Mr. Feynman!
 - Elementary Analysis
 - Goodfellow
@@ -37,18 +36,3 @@ enableToc: true
 - Database Internals
 - Numerical Methods in Engineering with Python: [Link](https://ia902301.us.archive.org/2/items/c-36_20211010/C36.pdf)
 - Google SRE Workbook: [Link](https://sre.google/workbook/table-of-contents/)
-
-## Sci-Fi
-- [The Last Question](https://users.ece.cmu.edu/~gamvrosi/thelastq.html) – Isaac Asimov
-- The Three Body Problem
-- Accelerando
-- Manna two worlds
-- Snow crash
-- The hitchhiker's guide to the galaxy
-- Story of your life – Ted Chiang
-- This is how you lose the time war
-- Exhalation – Ted Chiang
-- Understand – Ted Chiang
-- Flowers for Algernon
-- Atlas shrugged
-- Superintelligence
