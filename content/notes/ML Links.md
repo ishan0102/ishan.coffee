@@ -30,6 +30,8 @@ enableToc: false
   - [Google’s Grokking Explainer](https://pair.withgoogle.com/explorables/grokking/)
   - [Understand Autodiff in 30 Lines](https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
   - [Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
+  - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+  - [The Bitter Lesson 2](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
 
 - **Projects & Models**
   - [Llama V2](https://nonint.com/)

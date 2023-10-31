@@ -17,3 +17,5 @@ enableToc: false
 - Display some of the best pieces of writing on the Internet in a common place, with beautiful styling. For example all of the Paul Graham essays, some Twitter posts, Ted Chiang essays like *Understand* that only exist on old web archives.
 - Dscan: scan through your data and "swipe left/right" on good/bad examples to manually create a training set. Inspired by [1](https://www.reddit.com/r/LocalLLaMA/comments/14vnfh2/my_experience_on_starting_with_fine_tuning_llms/), [2](https://twitter.com/yacinemtb/status/1679466332964761600?s=46&t=4LxBxS_eu8BphijSvNj7HA).
 - Convert images to LaTeX, could be useful for converting complicated graphs or diagrams.
+- Automatically teach yourself using short form videos like the subway surfer tiktoks. Can query content from anywhere - reddit, twitter etc. Need to make a more general data querying tool that I can use for things.
+- Summarize any subreddit with LLMs by querying the RSS.
