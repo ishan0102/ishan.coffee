@@ -2,7 +2,7 @@
 title: Textbooks
 date: 2023-10-30
 tags:
-  - seed
+  - evergreen
 enableToc: false
 ---
 - Surely You're Joking, Mr. Feynman!

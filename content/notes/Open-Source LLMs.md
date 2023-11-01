@@ -2,7 +2,7 @@
 title: Open-Source LLMs
 date: 2023-10-04
 tags:
-  - seed
+  - sapling
 enableToc: false
 ---
 General finetuning guide: https://rentry.org/llm-training

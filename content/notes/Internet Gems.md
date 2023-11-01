@@ -1,8 +1,8 @@
 ---
-title: Gems
+title: Internet Gems
 date: 2023-10-23
 tags:
-  - seed
+  - evergreen
 enableToc: false
 ---
 PowerPoint Programming: https://youtu.be/_3loq22TxSc?si=2fth674yzFu0Wa-X

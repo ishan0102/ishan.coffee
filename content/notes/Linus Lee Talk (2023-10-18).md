@@ -5,6 +5,15 @@ tags:
   - seed
 enableToc: false
 ---
+## Takeaways
+- build tools just for yourself, across the entire stack. linus builds projects using his own programming language, his own css framework, his own backup service, etc
+- papers showing minor SOTA improvements on benchmarks are less interesting than papers that yield new insights on models. this is a good filter for the firehose of ML content
+- carefully curated dataset > billions of mediocre pieces of data for training
+- AI hardware products need to be sexy or have insane utility. iphone has both, google glass has neither
+- chatgpt is one of few first gen products that is easy, fast, useful out of the box
+- doing a research sabbatical is a good way to figure out your next career steps. start by reading for a couple months, then enter a prototyping phase where you build -> get feedback from users -> document failures in 2 week sprints. generate many artifacts and try to answer a research question each sprint
+
+## Rough notes
 - check out pair with google design stuff for neuron viz
 - anthropic paper on interpretable neurons
 - build software abstraction layers for yourself. makes iteration must faster and much easier since you know the stack

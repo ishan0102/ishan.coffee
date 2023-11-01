@@ -2,7 +2,7 @@
 title: Sci-Fi Books
 date: 2023-10-28
 tags:
-  - seed
+  - evergreen
 enableToc: false
 ---
 - [The Last Question](https://users.ece.cmu.edu/~gamvrosi/thelastq.html) – Isaac Asimov

@@ -2,7 +2,7 @@
 title: Productivity Stack
 date: 2023-10-30
 tags:
-  - seed
+  - evergreen
 enableToc: false
 ---
 My current productivity stack:

@@ -7,7 +7,18 @@ enableToc: true
 ---
 Have a nice read, hope you find something you like :)
 
+## Recs
+- [[Podcasts]]
+- [[Sci-Fi Books]]
+- [[Internet Gems]]
+- [[Productivity Stack]]
 ## Programming
 - [[Cool Tools]]
 - [[Code Snippets]]
 - [[SSH Scripts]]
+- [[System Design Interviews]]
+## Studying
+- [[ML Links]]
+- [[Textbooks]]
+- [[Courses]]
+- [[AWS]]
