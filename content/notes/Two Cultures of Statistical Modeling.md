@@ -14,7 +14,7 @@ Prediction on the other hand allows the data to guide the process, where it beco
 Put in the context of ML, Mullainathan and Spiess write:
 > The problem of artificial intelligence has vexed researchers for decades. Even simple tasks such as digit recognition—challenges that we as humans overcome so effortlessly—proved extremely difficult to program. Introspection into how our mind solves these problems failed to translate into procedures. The real breakthrough came once we stopped trying to deduce these rules. Instead, the problem was turned into an inductive one: rather than hand-curating the rules, we simply let the data tell us which rules work best.
 
-By shifting the framing from deduction to empiricism, researchers have been able to make countless breakthroughs in ML.
+In the modern age where models have billions of parameters and see trillions of tokens, the question to ask is whether we care about how the model learns this highly complicated distribution or not. By shifting the framing from deduction to empiricism, researchers have been able to make countless breakthroughs in ML.
 
 ## References
 - http://www2.math.uu.se/~thulin/mm/breiman.pdf

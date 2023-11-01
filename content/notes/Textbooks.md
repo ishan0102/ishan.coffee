@@ -7,7 +7,7 @@ enableToc: false
 ---
 - Surely You're Joking, Mr. Feynman!
 - Elementary Analysis
-- Goodfellow
+- Goodfellow Deep Learning Book
 - Basic Algebra by Jacobson
 - Probabilistic ML by Kevin Murphy: [Link](https://probml.github.io/pml-book/)
 - Math for ML: [Link](https://mml-book.github.io/)
@@ -37,3 +37,8 @@ enableToc: false
 - Numerical Methods in Engineering with Python: [Link](https://ia902301.us.archive.org/2/items/c-36_20211010/C36.pdf)
 - Google SRE Workbook: [Link](https://sre.google/workbook/table-of-contents/)
 - Systems Performance: Enterprise
+- Grokking Algorithms
+- Grokking System Design
+- Code Complete
+- Little Book of Deep Learning
+- 
