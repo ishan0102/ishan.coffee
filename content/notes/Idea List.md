@@ -38,7 +38,7 @@ Open ideas, if you decide to build any of these let me know!
 	- Receipt extraction
 	- Math homework helper
 	- Image to LaTeX converter
-	- Calorie counter
+	- Calorie counter by converting image to ingredients + use RAG to compare against nutrition facts
 	- Recipe generator from ingredients
 	- Diagram generator from whiteboard
 	- Excel analyzer
