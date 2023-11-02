@@ -36,9 +36,9 @@ enableToc: false
 - Database Internals
 - Numerical Methods in Engineering with Python: [Link](https://ia902301.us.archive.org/2/items/c-36_20211010/C36.pdf)
 - Google SRE Workbook: [Link](https://sre.google/workbook/table-of-contents/)
-- Systems Performance: Enterprise
+- Systems Performance: Enterprise and the Cloud
 - Grokking Algorithms
 - Grokking System Design
 - Code Complete
 - Little Book of Deep Learning
-- 
+- Understanding Deep Learning: [Link](https://udlbook.github.io/udlbook/)

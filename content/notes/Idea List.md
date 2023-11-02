@@ -5,8 +5,10 @@ tags:
   - evergreen
 enableToc: false
 ---
+Open ideas, if you decide to build any of these let me know!
 - CLI tool that takes an image and sticks it on the web as a permalink. Currently copy images into GitHub and steal the link that it generates.
 - Reresume: upload a resume and a job description link and get a rewritten resume tailored to the job.
+- Sweresume: automatic LaTeX resumes for software engineers following a standard template. [1](https://www.ezcv.pro/builder)
 - Convert research papers to running code automatically, or at least a repo scaffold.
 - Match post writers across the web using stylometry.
 - Receipt extraction for splitting meals and groceries. Just take a picture of what you ate or purchased and have an LLM do the math. Could be possible when the GPT-V API drops. Fuyu-8B might work as well.
@@ -30,6 +32,7 @@ enableToc: false
 - A little guy who organizes and cleans up your codebase while you're not using your computer.
 - Link entire codebases together graphically and automatically and allow users to parse through the function calls in a spatial UI – "spatial coding".
 - Map coding error messages to their solutions to build up a repository of personal debugging tricks automatically.
+	- A model could use this data for its own exploration when its stuck, so it learns on past stacktraces + Google search.
 - GPT vision tools:
 	- Better autonomous web browsing
 	- Receipt extraction
@@ -47,3 +50,17 @@ enableToc: false
 - Convert an MIT course into useful lecture notes. Should add a sliding scale that lets you modify the difficulty, can do this by pre-generating content for different education levels. [1](https://twitter.com/ocolegro/status/1707823106767651239?s=46&t=4LxBxS_eu8BphijSvNj7HA)
 - Compressing thought and expanding it again is like noising and denoising in diffusion models.
 - Continuously summarize HN, Reddit, etc. and generate podcast episodes, similar to [ScribePod](https://github.com/yacineMTB/scribepod).
+- Better way to map things you like in a city, [Felt](https://felt.com/) is doing a great job at this.
+- Generate color palette suggestions from aesthetic images.
+- Nice view components for Spotify and other apps to make it easy to drop on your website.
+- Chrome extension for bionic reading.
+- BeReal memories downloader.
+- Notion page for all LeetCode problems with better solutions.
+- Predict stable diffusion prompts from the images, can train on DiffusionDB.
+- LeetCode but for debugging, currently no way to practice scenario-specific debugging.
+- Stable diffusion + Recaptcha.
+- Twitter except it's just posts your friends have *liked*.
+- An easy way to analyze scrapes of your own liked tweets in embedding space, something better than grep.
+- Website to help develop intuition on hard math/CS concepts, best quality explainers.
+- Watermarking handwriting/typed text algorithmically, something like what Scott Aaronson worked on [at OpenAI](https://scottaaronson.blog/?p=6823).
+- Grammarly + GPT.

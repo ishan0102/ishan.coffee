@@ -41,3 +41,4 @@ enableToc: false
 - [How is Llama Possible](https://finbarr.ca/how-is-llama-cpp-possible/)
 - [SAIL Courses](https://ai.stanford.edu/courses/)
 - [Stanford Smallville, Interactive Simulacra](https://github.com/joonspk-research/generative_agents)
+- [OpenAI Cookbook](https://cookbook.openai.com/)
