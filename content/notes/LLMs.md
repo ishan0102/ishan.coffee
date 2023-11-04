@@ -15,3 +15,5 @@ chain of thought
 speculative decoding
 
 https://github.com/srush/LLM-Training-Puzzles
+
+calculators : spreadsheets :: LLM inference : ???
