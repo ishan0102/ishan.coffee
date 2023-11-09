@@ -21,6 +21,7 @@ A growing tech stack of tools I'm familiar with and enjoy using. Mainly used for
 - **Frameworks**: Next.js, React
 - **Design**: Tailwind, [shadcn](https://ui.shadcn.com/)
 - **Icons**: Iconic.app
+- **Compute**: WebGPU
 
 ## Machine Learning
 - **Libraries & Platforms**: NumPy, PyTorch, CUDA
@@ -36,3 +37,4 @@ A growing tech stack of tools I'm familiar with and enjoy using. Mainly used for
 
 ## Utilities
 - **CLI Tools**: Fabric
+- **Multiplayer**: Rustpad, sshx

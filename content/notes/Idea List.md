@@ -45,6 +45,7 @@ Open ideas, if you decide to build any of these let me know!
 	- Detect fake vs. real sneakers
 	- Structure-anything: convert anything to structured data
 	- An "anything API" since it can see the whole web
+	- Something that replaces Selenium/Playwright for web scraping
 - *Actually good* dev-tools for things like base64 conversion, OpenAI token counting, etc. Good for LLM devs and regular devs alike.
 - Better interface for constant web-scraping using [this](https://github.com/simonw/ca-fires-history/blob/main/.github/workflows/scrape.yml).
 - Convert an MIT course into useful lecture notes. Should add a sliding scale that lets you modify the difficulty, can do this by pre-generating content for different education levels. [1](https://twitter.com/ocolegro/status/1707823106767651239?s=46&t=4LxBxS_eu8BphijSvNj7HA)
@@ -64,3 +65,5 @@ Open ideas, if you decide to build any of these let me know!
 - Website to help develop intuition on hard math/CS concepts, best quality explainers.
 - Watermarking handwriting/typed text algorithmically, something like what Scott Aaronson worked on [at OpenAI](https://scottaaronson.blog/?p=6823).
 - Grammarly + GPT.
+- Teach students things on TikTok by distilling MIT OCW into short form clips for coding and such.
+- Hack viral short form marketing for any product launch.
