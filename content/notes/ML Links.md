@@ -46,4 +46,5 @@ enableToc: false
 - [RLHF Lit Review](https://www.interconnects.ai/p/rlhf-lit-review-1-and-missing-pieces)
 - [Kipply’s September-October Reading List](https://kipp.ly/sept-oct-2023/)
 - [Tracing Emergent Abilities](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
-- [Matrix Calculus for Deep Learning](https://arxiv.org/pdf/1802.01528.pdf
+- [Matrix Calculus for Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
+- https://github.com/stas00/ml-engineering

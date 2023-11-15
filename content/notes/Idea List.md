@@ -46,6 +46,8 @@ Open ideas, if you decide to build any of these let me know!
 	- Structure-anything: convert anything to structured data
 	- An "anything API" since it can see the whole web
 	- Something that replaces Selenium/Playwright for web scraping
+	- Solve web acc
+	- Solve web accessibility
 - *Actually good* dev-tools for things like base64 conversion, OpenAI token counting, etc. Good for LLM devs and regular devs alike.
 - Better interface for constant web-scraping using [this](https://github.com/simonw/ca-fires-history/blob/main/.github/workflows/scrape.yml).
 - Convert an MIT course into useful lecture notes. Should add a sliding scale that lets you modify the difficulty, can do this by pre-generating content for different education levels. [1](https://twitter.com/ocolegro/status/1707823106767651239?s=46&t=4LxBxS_eu8BphijSvNj7HA)
@@ -58,7 +60,7 @@ Open ideas, if you decide to build any of these let me know!
 - BeReal memories downloader.
 - Notion page for all LeetCode problems with better solutions.
 - Predict stable diffusion prompts from the images, can train on DiffusionDB.
-- LeetCode but for debugging, currently no way to practice scenario-specific debugging.
+- LeetCode but for debugging, currently no way to practice scenario-specific debugging. Solved: [1](https://sadservers.com)
 - Stable diffusion + Recaptcha.
 - Twitter except it's just posts your friends have *liked*.
 - An easy way to analyze scrapes of your own liked tweets in embedding space, something better than grep.
@@ -67,3 +69,4 @@ Open ideas, if you decide to build any of these let me know!
 - Grammarly + GPT.
 - Teach students things on TikTok by distilling MIT OCW into short form clips for coding and such.
 - Hack viral short form marketing for any product launch.
+- Convert git commit history to a changelog.

@@ -38,3 +38,4 @@ A growing tech stack of tools I'm familiar with and enjoy using. Mainly used for
 ## Utilities
 - **CLI Tools**: Fabric
 - **Multiplayer**: Rustpad, sshx
+- **Browser**: Arc, Braid, Metaphor
