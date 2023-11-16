@@ -34,7 +34,6 @@ export const defaultContentPageLayout: PageLayout = {
         linkToMore: "/notes" as SimpleSlug,
       })
     ),
-    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.Graph(),

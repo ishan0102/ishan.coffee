@@ -46,8 +46,8 @@ Open ideas, if you decide to build any of these let me know!
 	- Structure-anything: convert anything to structured data
 	- An "anything API" since it can see the whole web
 	- Something that replaces Selenium/Playwright for web scraping
-	- Solve web acc
 	- Solve web accessibility
+	- Analyze screenshots of audio waves
 - *Actually good* dev-tools for things like base64 conversion, OpenAI token counting, etc. Good for LLM devs and regular devs alike.
 - Better interface for constant web-scraping using [this](https://github.com/simonw/ca-fires-history/blob/main/.github/workflows/scrape.yml).
 - Convert an MIT course into useful lecture notes. Should add a sliding scale that lets you modify the difficulty, can do this by pre-generating content for different education levels. [1](https://twitter.com/ocolegro/status/1707823106767651239?s=46&t=4LxBxS_eu8BphijSvNj7HA)
@@ -60,7 +60,7 @@ Open ideas, if you decide to build any of these let me know!
 - BeReal memories downloader.
 - Notion page for all LeetCode problems with better solutions.
 - Predict stable diffusion prompts from the images, can train on DiffusionDB.
-- LeetCode but for debugging, currently no way to practice scenario-specific debugging. Solved: [1](https://sadservers.com)
+- LeetCode but for debugging, currently no way to practice scenario-specific debugging. Solved: [1]((https://sadservers.com)
 - Stable diffusion + Recaptcha.
 - Twitter except it's just posts your friends have *liked*.
 - An easy way to analyze scrapes of your own liked tweets in embedding space, something better than grep.
@@ -69,4 +69,10 @@ Open ideas, if you decide to build any of these let me know!
 - Grammarly + GPT.
 - Teach students things on TikTok by distilling MIT OCW into short form clips for coding and such.
 - Hack viral short form marketing for any product launch.
+- Train a model to chunk a long passage into human friendly sections. [1](https://x.com/thesephist/status/1724159343237456248?s=46&t=4LxBxS_eu8BphijSvNj7HA)
 - Convert git commit history to a changelog.
+- Take any data and convert it into a knowledge graph, with a simple API that makes it useful for other projects.
+- Build a realtime navigation tool for blind people into an iPhone app. [1](https://www.youtube.com/watch?v=8Au47gnXs0w)
+- Visualize information as embeddings, like taking a textbook and converting it into a cloud graph. [1](https://www.youtube.com/watch?v=YvobVu1l7GI&t=720s), [2](https://openai.com/research/summarizing-books)
+- Segment a webpage -> embed it -> select pieces based on a nearest neighbor search of the embeddings/query. Requires contrastive data for a web snippet/text, like CLIP.
+- Try using CogVLM to break Captchas. [1](https://github.com/THUDM/CogVLM)
