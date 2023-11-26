@@ -48,3 +48,4 @@ enableToc: false
 - [Tracing Emergent Abilities](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
 - [Matrix Calculus for Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
 - https://github.com/stas00/ml-engineering
+- https://blog.briankitano.com/llama-from-scratch/

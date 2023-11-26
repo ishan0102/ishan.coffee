@@ -76,3 +76,6 @@ Open ideas, if you decide to build any of these let me know!
 - Visualize information as embeddings, like taking a textbook and converting it into a cloud graph. [1](https://www.youtube.com/watch?v=YvobVu1l7GI&t=720s), [2](https://openai.com/research/summarizing-books)
 - Segment a webpage -> embed it -> select pieces based on a nearest neighbor search of the embeddings/query. Requires contrastive data for a web snippet/text, like CLIP.
 - Try using CogVLM to break Captchas. [1](https://github.com/THUDM/CogVLM)
+- Build a text editor that periodically takes snapshots of the text area and sends them to GPT for autocorrect, an auto editing writing editor basically.
+- Finetune an LLM on your own tweets.
+- Rebuild [this](https://github.com/ishan0102/pictionary) but with GPT-V.
