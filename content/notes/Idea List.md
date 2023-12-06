@@ -79,3 +79,5 @@ Open ideas, if you decide to build any of these let me know!
 - Build a text editor that periodically takes snapshots of the text area and sends them to GPT for autocorrect, an auto editing writing editor basically.
 - Finetune an LLM on your own tweets.
 - Rebuild [this](https://github.com/ishan0102/pictionary) but with GPT-V.
+- Route to any model, cloud-based or local, with ease.
+- Visualize loss curves in 3D with some cool interface.
