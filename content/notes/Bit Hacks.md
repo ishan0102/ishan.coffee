@@ -1,6 +1,6 @@
 ---
 title: Bit Hacks
-date: 2023-10-06
+date: 2023-12-12
 tags:
   - seed
 enableToc: false

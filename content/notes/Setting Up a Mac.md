@@ -1,3 +1,10 @@
+---
+title: A Developer's Guide to Setting Up a Mac
+date: 2023-12-02
+tags:
+  - seed
+enableToc: false
+---
 ## System Preferences
 - Trackpad: disable force touch, make tracking speed fast, disable natural scrolling
 - Keyboard: key repeat rate fast, delay until repeat short
