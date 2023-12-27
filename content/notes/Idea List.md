@@ -60,7 +60,7 @@ Open ideas, if you decide to build any of these let me know!
 - BeReal memories downloader.
 - Notion page for all LeetCode problems with better solutions.
 - Predict stable diffusion prompts from the images, can train on DiffusionDB.
-- LeetCode but for debugging, currently no way to practice scenario-specific debugging. Solved: [1]((https://sadservers.com)
+- LeetCode but for debugging, currently no way to practice scenario-specific debugging. Solved: [1](https://sadservers.com)
 - Stable diffusion + Recaptcha.
 - Twitter except it's just posts your friends have *liked*.
 - An easy way to analyze scrapes of your own liked tweets in embedding space, something better than grep.
@@ -74,7 +74,7 @@ Open ideas, if you decide to build any of these let me know!
 - Take any data and convert it into a knowledge graph, with a simple API that makes it useful for other projects.
 - Build a realtime navigation tool for blind people into an iPhone app. [1](https://www.youtube.com/watch?v=8Au47gnXs0w)
 - Visualize information as embeddings, like taking a textbook and converting it into a cloud graph. [1](https://www.youtube.com/watch?v=YvobVu1l7GI&t=720s), [2](https://openai.com/research/summarizing-books)
-- Segment a webpage -> embed it -> select pieces based on a nearest neighbor search of the embeddings/query. Requires contrastive data for a web snippet/text, like CLIP.
+- Segment a webpage → embed it → select pieces based on a nearest neighbor search of the embeddings/query. Requires contrastive data for a web snippet/text, like CLIP.
 - Try using CogVLM to break Captchas. [1](https://github.com/THUDM/CogVLM)
 - Build a text editor that periodically takes snapshots of the text area and sends them to GPT for autocorrect, an auto editing writing editor basically.
 - Finetune an LLM on your own tweets.

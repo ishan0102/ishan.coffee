@@ -1,5 +1,5 @@
 ---
-title: A Developer's Guide to Setting Up a Mac
+title: Setting Up a Mac
 date: 2023-12-02
 tags:
   - seed
