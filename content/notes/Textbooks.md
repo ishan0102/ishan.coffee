@@ -43,3 +43,4 @@ enableToc: false
 - Little Book of Deep Learning
 - Understanding Deep Learning: [Link](https://udlbook.github.io/udlbook/)
 - Optimization by Vector Space Methods
+- Programming Massively Parallel Processors

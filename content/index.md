@@ -14,4 +14,4 @@ I'm [Ishan](https://ishanshah.me). I'll mainly write notes here about machine le
 - [[sapling|Sapling]]: fully-formed thoughts
 - [[evergreen|Evergreen]]: permanent, constantly growing
 
-I'm currently working through the [[MLIB Practice Problems|Machine Learning Interviews Book]]. If you're bored, start by checking out [[Library]], [[ML Links]], [[SSH Scripts]]  or any of my other [[Evergreen]] pages. Enjoy!
+I'm currently working through the [[MLIB Practice Problems|Machine Learning Interviews Book]]. If you're bored, start by checking out [[Library]], [[ML Links]], [[SSH Scripts]]  or any of my other [[evergreen|Evergreen]] pages. Enjoy!

@@ -11,9 +11,10 @@ enableToc: false
 - Keyboard > Shortcuts > Screenshots: change the shortcut for "copy picture of selected area to the clipboard" to `⌘\` for ease (it's a game changer trust me)
 - Displays: disable automatically adjust brightness, disable true tone
 - Desktop > Hot Corners: mission control, notification center, launchpad, put display to sleep
+- Enable screen sharing permissions for Zoom
 ## Apps
 - Remove everything from the dock
-- Install VS Code, Sublime Text, Chrome, Spotify, Obsidian, Notion
+- Install VS Code, Sublime Text, Chrome, Spotify, Obsidian, Notion, Zoom
 
 ## Terminal
 - Install command line tools: `xcode-select --install`

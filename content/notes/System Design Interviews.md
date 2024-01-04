@@ -3,7 +3,7 @@ title: System Design Interviews
 date: 2023-10-24
 tags:
   - seed
-enableToc: false
+enableToc: true
 ---
 ## Notes
 - It's a good idea to ask a lot of clarifying questions to avoid going down the wrong path:
