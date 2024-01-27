@@ -15,6 +15,7 @@ enableToc: false
 ## Apps
 - Remove everything from the dock
 - Install VS Code, Sublime Text, Chrome, Spotify, Obsidian, Notion, Zoom
+- Nice to haves: Klack, Vivid, Cron, Tailscale, Texts, Stats, Screen Studio, Rectangle, Warp, Raycast, Cyberduck, Heynote, Ollama, LM Studio
 
 ## Terminal
 - Install command line tools: `xcode-select --install`

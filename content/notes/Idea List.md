@@ -70,7 +70,7 @@ Open ideas, if you decide to build any of these let me know!
 - Teach students things on TikTok by distilling MIT OCW into short form clips for coding and such.
 - Hack viral short form marketing for any product launch.
 - Train a model to chunk a long passage into human friendly sections. [1](https://x.com/thesephist/status/1724159343237456248?s=46&t=4LxBxS_eu8BphijSvNj7HA)
-- Convert git commit history to a changelog.
+- Convert git commit history to a changelog. It could be something you add to a repo (GitHub action?) that keeps the README updated for instance.
 - Take any data and convert it into a knowledge graph, with a simple API that makes it useful for other projects.
 - Build a realtime navigation tool for blind people into an iPhone app. [1](https://www.youtube.com/watch?v=8Au47gnXs0w)
 - Visualize information as embeddings, like taking a textbook and converting it into a cloud graph. [1](https://www.youtube.com/watch?v=YvobVu1l7GI&t=720s), [2](https://openai.com/research/summarizing-books)
