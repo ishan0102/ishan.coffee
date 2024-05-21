@@ -70,6 +70,7 @@ Code
 - [Mentat](https://www.mentat.ai/)
 - [Morph](https://morph.so/)
 - [Trace](https://www.trace.zip/)
+- Supermaven
 
 Cloud Compute
 - [Lambda](https://lambdalabs.com/)

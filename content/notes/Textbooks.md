@@ -44,3 +44,4 @@ enableToc: false
 - Understanding Deep Learning: [Link](https://udlbook.github.io/udlbook/)
 - Optimization by Vector Space Methods
 - Programming Massively Parallel Processors
+- A Pattern Language

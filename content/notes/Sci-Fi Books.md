@@ -18,3 +18,5 @@ enableToc: false
 - Flowers for Algernon
 - Atlas shrugged
 - Superintelligence
+- Nine billion names of god
+- Hyperion
