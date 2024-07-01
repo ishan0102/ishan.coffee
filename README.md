@@ -1,10 +1,10 @@
 # My digital cafe
 
-Running:
+Run the website locally:
 `npx quartz build --serve`
 
-Syncing:
+Sync your changes to GitHub:
 `npx quartz sync`
 
-Updating:
+Update with new changes from Quartz main repository:
 `git pull upstream v4`
