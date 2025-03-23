@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Digital Cafe
+title: Ishan's Cafe
 date: 2023-10-03
 enableToc: false
 ---
