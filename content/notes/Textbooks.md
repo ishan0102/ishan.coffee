@@ -45,3 +45,7 @@ enableToc: false
 - Optimization by Vector Space Methods
 - Programming Massively Parallel Processors
 - A Pattern Language
+- AI Engineering - Chip Huyen
+- AI is good for you - Eric Jang
+- Building a Large Language Model (From Scratch) - Sebastian Raschka
+- Bootstrapping Computing

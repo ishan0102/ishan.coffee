@@ -12,11 +12,13 @@ Have a nice read, hope you find something you like :)
 - [[Sci-Fi Books]]
 - [[Internet Gems]]
 - [[Productivity Stack]]
+
 ## Programming
 - [[Cool Tools]]
 - [[Code Snippets]]
 - [[SSH Scripts]]
 - [[System Design Interviews]]
+
 ## Studying
 - [[ML Links]]
 - [[Textbooks]]

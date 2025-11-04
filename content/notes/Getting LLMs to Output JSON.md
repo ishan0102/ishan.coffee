@@ -1,5 +1,5 @@
 ---
-title: Getting LLMs to Output JSON
+title: Getting LLMs to output JSON
 date: 2023-11-03
 tags:
   - seed

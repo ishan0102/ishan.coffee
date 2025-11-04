@@ -81,3 +81,55 @@ Open ideas, if you decide to build any of these let me know!
 - Rebuild [this](https://github.com/ishan0102/pictionary) but with GPT-V.
 - Route to any model, cloud-based or local, with ease.
 - Visualize loss curves in 3D with some cool interface.
+- So much to build with Anthropic MCP, Anthropic Computer Use, and Gemini Multimodal Live API.
+- Generate UI with a few keystrokes.
+- Customize podcasts for your ears – speaker diarization to speed up individual voices, edit pods at high level, easy to download to your device.
+- What to do while waiting for reasoning LLMs to think? Potentially a huge advertising play here.
+- Leetcode, except every problem is a real world scenario instead of the technical problem statements. The purpose is to understand where algorithms are applied. Could implement using a Chrome extension that calls out to an LLM to convert the problem statement into a real world scenario, and still run the code on Leetcode.
+- Automatically run git bisect when debugging and tell an LLM what bug you're looking for. Like you can ask it to find which commit broke a button or something, and it can go render the page at different states using bisect.
+- Goodreads with minimal, modern UI.
+- Chrome extension that lets you hide people on Twitter who are being annoying, using something funny like a CSGO AWP.
+- Vibe check industries by taking the average sentiment of a subreddit ("how are the folks on r/CSMajors doing today?")
+- Track company job openings over time to see if they're actually reducing hiring due to the advent of AGI.
+- Is it AI? A game to determine if a poem is AI generated or not.
+- Crowdsourced map of AI startup offices to see how the epicenter of AI changes over time.
+- March madness prompt battle. Select a model, write a prompt, and pay $5 to let your AI bracket compete against others.
+- More vibe coding with ThreeJS. [1](https://x.com/kennethcassel/status/1903523185238355972).
+- Stock analyst in your email. Give it a few tickers you care about and it'll use Perplexity's API for research + Claude for summaries.
+- Text a number to create a Linear ticket (or maybe use iOS shortcuts).
+- Let people vote on quality of software tools - realtime poll of the best languages, apps, etc. Login with GitHub. Stuff like Flighty and Beli that flies under the radar, should make them more visible.
+- Scrape SF housing data from Craigslist in realtime and filter for the best deals with LLMs.
+- Auto-updating spreadsheet of all niche SaaS apps and stats.
+- Automatically route to the best LLM for a given task based on current latency.
+- Scrape 4chan for alpha from the LLM/CV communities.
+- Run stylometry on popular Twitter accounts to figure out if people are ghostwriting for others.
+- There may be something interesting to do with NotebookLM if they ever release an API.
+- GitHub style commit graph for Congress. [1](http://Abstimmung.eu/git/2024/10/18)
+- There are a million companies to start that use GPT-4o native image
+- Cool ways to store data like chess games. [1](https://github.com/0hq/chessgpt)
+- Solve Dunnet with LLMs automatically.
+- LLMs for analyzing logs and automatically finding errors.
+- Guess how many likes a Tweet or TikTok has by reading the content alone, to tune your internal model.
+- Cursor extension for adding meta comments that only the LLM can see.
+- Read every word a person has ever written by having LLMs scrape the internet for everything.
+- Unedited, real-time timelapses of people using AI, to understand how the most effective work is done.
+- Post what you got done this week anonymously.
+- Use Claude computer use or BrowserBase for headless automation.
+- Use some of the new video models like Veo, HeyGen, Ideogram, Runway, etc.
+- LaTeX codegen -> Vision LM: let the LLM generate LaTeX, see the output and iterate.
+- PDF to brainrot.
+- Dwarkesh podcast generator for papers and articles, turn any text into a podcast (like NotebookLM).
+- Use dithering for something cool. Visual Electric is also a really cool image generation tool.
+- Unbrick the Car Thing from Spotify.
+- Map OpenAI releases to employee GitHub activity.
+- Track terrible journalist takes from a long time ago on a website. Maybe some way to rank and grade them?
+- Pictionary except you have to guess the prompt used to generate the image, use something like FAL.
+- Compute sentiment of quotes of a Tweet, figure out if people are mad at it.
+- Let Claude control an iPhone with iPhone mirroring + computer use.
+- Pictionary where you draw and the LLMs try to guess.
+- A playground to quickly iterate on AI UX interfaces (I guess v0 is basically this).
+- hnfast.com: get the high level updates.
+- GazeLLE for % eye contact made in a podcast, figure out who can keep eye contact. generation in some clever way.
+- Shortcut (maybe text) for creating calendar events from text.
+- HUD for autocomplete while you're in a meeting, so you can easily figure out what to say next.
+- Automatically ingest the Internet on a user's behalf and screen it for memetic viruses. "Internet condom". [1](https://x.com/yacineMTB/status/1880483306980196485)

@@ -59,6 +59,10 @@ Browser Automation
 - [Minion](https://minion.ai/)
 - [Induced](https://www.induced.ai/)
 
+Personal Assistant
+* New Computer
+* NOX
+
 Code
 - [Cursor](https://cursor.sh/)
 - [Continuum](https://continuum.sh/)
@@ -98,6 +102,8 @@ Productivity
 
 Education
 - [Synthesis](https://www.synthesis.com/)
+- [Eureka Labs](https://eurekalabs.ai/)
+- [Eureka Labs](https://eurekalabs.ai/)
 
 Community
 - [Ordinary](https://ordinary.town/)
@@ -126,3 +132,8 @@ Art / Entertainment
 - [Starlight Labs](https://starlightlabs.co/)
 - [Figura Labs](https://figura.chat/)
 - [Cartwheel](https://getcartwheel.com/home)
+
+Replit
+Patina Systems
+Mainframe
+Wispr

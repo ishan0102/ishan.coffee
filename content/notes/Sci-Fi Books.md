@@ -5,7 +5,7 @@ tags:
   - evergreen
 enableToc: false
 ---
-- [The Last Question](https://users.ece.cmu.edu/~gamvrosi/thelastq.html) – Isaac Asimov
+* [The Last Question](https://users.ece.cmu.edu/~gamvrosi/thelastq.html) – Isaac Asimov
 - The Three Body Problem
 - Accelerando
 - Manna two worlds
@@ -20,3 +20,9 @@ enableToc: false
 - Superintelligence
 - Nine billion names of god
 - Hyperion
+- Xenosystems
+- Axiomatic - Greg Egan
+- https://x.com/karpathy/status/1865924776214327360?s=46&t=4LxBxS_eu8BphijSvNj7HA
+- The beginning of infinity
+- They're Made out of Meat
+- The feeling of power - Asimov

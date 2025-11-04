@@ -1,5 +1,5 @@
 ---
-title: Setting Up a Mac
+title: How you should set up your mac
 date: 2023-12-02
 tags:
   - seed
@@ -12,15 +12,28 @@ enableToc: false
 - Displays: disable automatically adjust brightness, disable true tone
 - Desktop > Hot Corners: mission control, notification center, launchpad, put display to sleep
 - Enable screen sharing permissions for Zoom
+
 ## Apps
 - Remove everything from the dock
 - Install VS Code, Sublime Text, Chrome, Spotify, Obsidian, Notion, Zoom
-- Nice to haves: Klack, Vivid, Cron, Tailscale, Texts, Stats, Screen Studio, Rectangle, Warp, Raycast, Cyberduck, Heynote, Ollama, LM Studio
+- Nice to haves: Klack, Vivid, Cron, Tailscale, Texts, Stats, Screen Studio, Rectangle, Warp, Raycast, Cyberduck, Heynote, Ollama, LM Studio, Icebox, Timing, Granola, Wispr Flow
+- Ghostty
+- Set up Time machine
+
+## AI
+- Cursor
+- Windsurf
+- Claude code
 
 ## Terminal
 - Install command line tools: `xcode-select --install`
 - Don't show login info: `touch .hushlogin`
 - Change zsh to bash: `chsh -s /bin/bash`
 - Get custom dotfiles: `git clone https://github.com/ishan0102/dotfiles.git`
-- Add SSH key for GitHub
+- Add SSH/GPG key for GitHub
 - Disable visual bell
+- Use Berkeley Mono for the font
+- Install `llm` and `claude` utils
+- Set up uv, bun, brew, etc.
+
+Watch @FromSergio's YouTube videos
