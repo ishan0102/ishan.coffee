@@ -131,5 +131,7 @@ Open ideas, if you decide to build any of these let me know!
 - hnfast.com: get the high level updates.
 - GazeLLE for % eye contact made in a podcast, figure out who can keep eye contact. generation in some clever way.
 - Shortcut (maybe text) for creating calendar events from text.
-- HUD for autocomplete while you're in a meeting, so you can easily figure out what to say next.
+- HUD for autocomplete while you're in a meeting, so you can easily figure out what to say next.HUD for autocomplete while you're in a meeting, so you can easily figure out what to say next.
 - Automatically ingest the Internet on a user's behalf and screen it for memetic viruses. "Internet condom". [1](https://x.com/yacineMTB/status/1880483306980196485)
+- Create a GitHub-style commit graph for Slack messages.
+- Create a GitHub-style commit graph for Slack messages.

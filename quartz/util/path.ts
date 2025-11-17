@@ -59,7 +59,6 @@ function sluggify(s: string): string {
     .split("/")
     .map((segment) =>
       segment
-        .toLowerCase()
         .replace(/\s/g, "-")
         .replace(/&/g, "-and-")
         .replace(/%/g, "-percent")
