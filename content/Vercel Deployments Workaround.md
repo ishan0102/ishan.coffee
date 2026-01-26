@@ -1,6 +1,6 @@
 ---
 title: Vercel Deployments Workaround
-date: 2023-12-12
+date: 2026-01-26
 tags:
   - seed
 enableToc: false
