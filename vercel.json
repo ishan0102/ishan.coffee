@@ -95,6 +95,16 @@
   ],
   "rewrites": [
     {
+      "source": "/a/:album([0-9a-f]{32})/",
+      "destination": "https://devbox.pleco-galaxy.ts.net/a/:album/",
+      "has": [
+        {
+          "type": "host",
+          "value": "albums.ishan.cafe"
+        }
+      ]
+    },
+    {
       "source": "/a/:album([0-9a-f]{32})",
       "destination": "https://devbox.pleco-galaxy.ts.net/a/:album/",
       "has": [
