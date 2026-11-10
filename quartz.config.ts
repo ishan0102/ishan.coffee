@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "google", tagId: "G-LMSG0JHBFB",
     },
     locale: "en-US",
-    baseUrl: "ishan.cafe",
+    baseUrl: "ishan.coffee",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
